@@ -25,7 +25,7 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      employee: 'Dharmesh Khatri'
+      employee: 'Dharmesh Yogesh Khatri'
     }
   }}
 </script>
